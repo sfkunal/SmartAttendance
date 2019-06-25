@@ -1,2 +1,2 @@
 # SmartAttendance
-algorithmic code for an attendance application using NFC proximity technology
+logic code using Spring for an attendance application using NFC proximity technology
